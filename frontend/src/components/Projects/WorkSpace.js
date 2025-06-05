@@ -64,7 +64,7 @@ import axios from 'axios';
 import { GoogleGenAI } from "@google/genai";
 
 // Initialize Google GenAI with your API key
-const ai = new GoogleGenAI({ apiKey: "AIzaSyDnEZOA092YEBdA3CYysRgZRIihV4kJxoo" });
+const ai = new GoogleGenAI({ apiKey: "" });
 
 
 function WorkSpace() {
